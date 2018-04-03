@@ -1,0 +1,8 @@
+## Interface: 70200
+## Title: ClassIcons |cff003333 Legion release|r
+## Version: 7.1
+## Notes: Displays class icons near your target's and party members' portraits
+## Authors: Yorgl/Reiswind/Slake/JB
+## SavedVariables: CLASSICONS_CONFIG
+
+ClassIcons.xml
